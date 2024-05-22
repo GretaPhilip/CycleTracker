@@ -1,2 +1,2 @@
 # CycleTracker
-Track Menstrual cycle dates PWA
+Track Menstrual cycle dates
